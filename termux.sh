@@ -1,0 +1,1 @@
+pip3 install requests; pkg install whois; python3 pcarecon.py

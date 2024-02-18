@@ -1,0 +1,1 @@
+pip3 install requests; sudo apt install whois; python3 pcarecon.py
