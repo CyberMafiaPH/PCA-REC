@@ -2,7 +2,7 @@
 Simple Reconnaissance in Python
 Enter your target url without http or https for stable performance
 
-#Usage 
+Usage:
 if you are using desktop like Kali or Parrot 
 sh linux.sh
 
